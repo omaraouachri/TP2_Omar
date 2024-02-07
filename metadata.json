@@ -1,0 +1,14 @@
+{
+    "num_documents": 13550,
+    "total_tokens": 6782217,
+    "num_tokens_title": 151507,
+    "num_tokens_content": 6630710,
+    "average_tokens_per_document": 500.5326199261993,
+    "most_common_tokens": [
+        "prgmztext",
+        "\u21b3",
+        ".additem",
+        "inactive",
+        "|renault"
+    ]
+}
