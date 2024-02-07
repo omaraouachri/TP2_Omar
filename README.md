@@ -13,7 +13,7 @@ Ce projet consiste à créer un indexeur web minimal en utilisant des données e
 
 ## Exécution du Projet
 
-1. git clone 
+1. git clone https://github.com/omaraouachri/TP2_Omar.git
 2. Installez les dépendances en exécutant la commande suivante dans votre terminal :
 
 ```
